@@ -1,7 +1,7 @@
 {
   "roles": [
     {
-      "name": "Title Sponsors",
+      "name": "Sponsors",
       "sponsors": [
         {
           "id": "algani",
@@ -10,11 +10,19 @@
           "img": "/sponsors/agt.png",
           "website": "https://agtkw.com/",
           "linkedin": "alghanimtechnologies"
+        },
+        {
+          "id": "leverage",
+          "name": "Leverage Edu",
+          "post": "Gold Sponsor",
+          "img": "/sponsors/leverage.png",
+          "website": "https://leverageedu.com",
+          "linkedin": "leverage-edu"
         }
       ]
     },
     {
-      "name": "Partners",
+      "name": "Co-Sponsors",
       "sponsors": [
         {
           "id": "mulearn",
@@ -25,132 +33,195 @@
           "linkedin": "gtechmulearn"
         },
         {
-          "id": "t1",
+          "id": "unibic",
           "name": "Unibic Foods India",
-          "post": "Cookies and Iftar Partner",
+          "post": "Cookie Partner",
           "img": "/sponsors/unibic.png",
           "website": "https://www.unibicfoods.com/",
           "linkedin": "unibic-biscuits-india-pvt-ltd"
         },
         {
-          "id": "t2",
-          "name": "UniArch Global",
-          "post": "Sponsor",
-          "img": "/sponsors/t2.png",
-          "website": "https://www.uniarch.com/",
-          "linkedin": "uniarch-global"
+          "id": "ksfe",
+          "name": "KSFE",
+          "post": "Co-Sponsor",
+          "img": "/sponsors/ksfe.png",
+          "website": "https://ksfe.com/"
+        },
+        {
+          "id": "zamzam",
+          "name": "Zam Zam",
+          "post": "Iftar Partner",
+          "img": "/sponsors/zamzam.png",
+          "website": "http://www.zamzamrestaurants.com/"
+        },
+        {
+          "id": "acer",
+          "name": "Acer",
+          "post": "Technical Partner",
+          "img": "/sponsors/acer.svg",
+          "website": "https://www.acer.com/"
+        },
+        {
+          "id": "nexa",
+          "name": "Nexa",
+          "post": "Driven By",
+          "img": "/sponsors/nexa.png",
+          "website": "https://www.nexaexperience.com/"
+        },
+        {
+          "id": "fedbank",
+          "name": "Federal Bank",
+          "post": "Banking Partner",
+          "img": "/sponsors/fedbank.png",
+          "website": "https://www.federalbank.co.in/"
         },
         {
           "id": "vr",
           "name": "Veranda RACE",
           "post": "Learning Partner",
-          "img": "/sponsors/vr.png",
+          "img": "/sponsors/veranda.png",
           "website": "https://raceinstitute.in/",
           "linkedin": "veranda-race"
         },
         {
-          "id": "adsdo",
-          "name": "Adsdo",
-          "post": "Media Partner",
-          "img": "/sponsors/adsdo.png",
-          "website": "https://www.instagram.com/ads_do_"
-        },
-        {
-          "id": "canara",
-          "name": "Canara Bank",
-          "post": "Partner",
-          "img": "/sponsors/canara.png",
-          "website": ""
-        },
-        {
-          "id": "fedbank",
-          "name": "Federal Bank",
-          "post": "Partner",
-          "img": "/sponsors/fedbank.png",
-          "website": ""
-        },
-        {
-          "id": "ksfe",
-          "name": "KSFE",
-          "post": "Partner",
-          "img": "/sponsors/ksfe.png",
-          "website": ""
-        },
-        {
-          "id": "nexa",
-          "name": "Nexa",
-          "post": "Partner",
-          "img": "/sponsors/nexa.png",
-          "website": ""
-        },
-        {
-          "id": "msquare",
-          "name": "M Square",
-          "post": "Partner",
-          "img": "/sponsors/msquared.png",
-          "website": ""
+          "id": "uniark",
+          "name": "Uni Ark",
+          "post": "Sponsor",
+          "img": "/sponsors/uniark.png",
+          "website": "https://www.uniark.in/",
+          "linkedin": "uni-ark-study-abroad-pvt-ltd"
         },
         {
           "id": "datascience",
           "name": "Data Science Academy",
           "post": "Partner",
           "img": "/sponsors/datascience.png",
-          "website": ""
+          "website": "https://datascience.one/"
+        },
+        {
+          "id": "venky",
+          "name": "Venkateswara Electricals",
+          "post": "Sponsor",
+          "img": "/sponsors/venkateswara.png",
+          "website": "https://venkiteswaraelectricals.com/"
         },
         {
           "id": "cokonet",
-          "name": "Cokonet",
+          "name": "Cokonet Academy",
           "post": "Partner",
           "img": "/sponsors/cokonet.png",
+          "website": "https://cokonetacademy.com/"
+        },
+        {
+          "id": "cadd",
+          "name": "CADD Centre",
+          "post": "Special Thanks",
+          "img": "/sponsors/cadd.png",
+          "website": "https://caddcentre.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mini Sponsors",
+      "sponsors": [
+        {
+          "id": "milma",
+          "name": "Milma",
+          "post": "",
+          "img": "/sponsors/milma.png",
+          "website": "https://milma.com/"
+        },
+        {
+          "id": "lyceum",
+          "name": "The Lyceum Academy",
+          "post": "",
+          "img": "/sponsors/lyceum.jpeg",
           "website": ""
         },
         {
-          "id": "supreme",
-          "name": "Supreme Computers",
-          "post": "Partner",
-          "img": "/sponsors/acer.png",
-          "website": ""
+          "id": "geebee",
+          "name": "Geebee Education",
+          "post": "",
+          "img": "/sponsors/geebee.png",
+          "website": "https://www.geebeeworld.com/"
+        },
+        {
+          "id": "lottery",
+          "name": "Kerala Bhagyakuri",
+          "post": "",
+          "img": "/sponsors/lottery.png",
+          "website": "https://www.keralalotteries.net/"
+        },
+        {
+          "id": "helmetworld",
+          "name": "The Helmet World",
+          "post": "",
+          "img": "/sponsors/helmetworld.png",
+          "website": "https://www.instagram.com/thehelmet_world/"
         },
         {
           "id": "ktm",
           "name": "KTM",
-          "post": "Partner",
+          "post": "",
           "img": "/sponsors/ktm.png",
-          "website": "https://www.ktm.com"
+          "website": "https://www.ktm.com/"
         },
         {
-          "id": "helmet",
-          "name": "Helmet World",
-          "post": "Partner",
-          "img": "/sponsors/helmetworld.png",
-          "website": "https://www.instagram.com/thehelmet_world"
+          "id": "nyc",
+          "name": "New York Chicken",
+          "post": "",
+          "img": "/sponsors/nyc.png",
+          "website": "https://www.instagram.com/nyc_kerala"
         },
         {
-          "id": "xcoders",
-          "name": "XCoders",
-          "post": "Partner",
-          "img": "/sponsors/xcoders.png",
-          "website": ""
+          "id": "ayraa",
+          "name": "Ayraa",
+          "post": "",
+          "img": "/sponsors/ayraa.png",
+          "website": "https://dingg.app/booking/ayraa-skin-rejuvenation-clinic-empire-building"
         },
         {
-          "id": "mech",
-          "name": "Torque",
-          "post": "Partner",
-          "img": "/sponsors/torque.jpg",
-          "website": ""
-        },
-        {
-          "id": "iedc",
-          "name": "IEDC",
-          "post": "Partner",
-          "img": "/sponsors/iedc.png",
-          "website": ""
+          "id": "topnotch",
+          "name": "Top Notch IAS",
+          "post": "",
+          "img": "/sponsors/topnotch.png",
+          "website": "https://www.topnotchias.com/"
         }
       ]
     },
     {
       "name": "Event Sponsors",
       "sponsors": [
+        {
+          "id": "msquared",
+          "name": "M Squared",
+          "post": "Hackathon Co-Sponsor",
+          "img": "/sponsors/msquared.png",
+          "website": "https://m2india.com/",
+          "linkedin": "m-squared-software-and-services-pvt-ltd"
+        },
+        {
+          "id": "tryzens",
+          "name": "Tryzens",
+          "post": "Pro Programmer Sponsor",
+          "img": "/sponsors/tryzens.png",
+          "website": "https://tryzens.com/",
+          "linkedin": "tryzens"
+        },
+        {
+          "id": "xcoders",
+          "name": "XCoders",
+          "post": "Blind Programming, CTF",
+          "img": "/sponsors/xcoders.png",
+          "website": "https://www.instagram.com/xcoders_stist/"
+        },
+        {
+          "id": "riglabs",
+          "name": "Riglabs",
+          "post": "CTF, Robotics, AR/VR",
+          "img": "/sponsors/riglabs.svg",
+          "website": "https://riglabs.co/"
+        },
         {
           "id": "webhunt",
           "name": "Scalgo Technologies",
@@ -168,20 +239,19 @@
           "linkedin": "fossunited"
         },
         {
-          "id": "tryzens",
-          "name": "Tryzens",
-          "post": "Pro Programmer Sponsor",
-          "img": "/sponsors/tryzens.png",
-          "website": "https://tryzens.com/",
-          "linkedin": "tryzens"
-        },
-        {
           "id": "dnet",
           "name": "Dnet",
           "post": "Keyboard Mastery Sponsor",
           "img": "/sponsors/dnet.png",
           "website": "https://www.instagram.com/dnet.systems",
           "linkedin": "tryzens"
+        },
+        {
+          "id": "futurecad",
+          "name": "Future CAD",
+          "post": "Spanathon",
+          "img": "/sponsors/futurecad.png",
+          "website": "https://www.futurecad.in/"
         }
       ]
     }
