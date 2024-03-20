@@ -76,6 +76,13 @@
           "website": "https://www.federalbank.co.in/"
         },
         {
+          "id": "canara",
+          "name": "Canara Bank",
+          "post": "Banking Partner",
+          "img": "/sponsors/canara.png",
+          "website": "https://canarabank.com/"
+        },
+        {
           "id": "vr",
           "name": "Veranda RACE",
           "post": "Learning Partner",
